@@ -1,0 +1,22 @@
+{
+  "name": "users-client",
+  "version": "1.0.0",
+  "description": "front-end for first Apollo test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edwin Castillo",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/client": "^3.6.7",
+    "@apollo/space-kit": "^9.11.0",
+    "graphql": "^16.5.0",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "apollo": "^2.34.0"
+  }
+}
